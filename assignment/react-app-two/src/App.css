@@ -1,0 +1,9 @@
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px; /* Optional: Adds space below the buttons */
+}
+
+.button-container button {
+  margin: 0 5px; /* Adjust the value to add space between buttons */
+}
